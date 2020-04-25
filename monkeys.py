@@ -163,7 +163,7 @@ else:
     	st.markdown("-------------------------")
 
 st.header("Can a thousand monkeys typing for a thousand years write one of Shakespeare's sonnets?")
-st.write("Some say that over an infinite time or infinite  monkeys it's bound to happen, but it's pretty unlikely otherwise. The Infinite Monkey Theorem Simulator allows you to test this out for yourself, so why not give it a shot and see how your do?")
+st.write("Some say that over an infinite time or infinite monkeys it's bound to happen, but it's pretty unlikely otherwise. The Infinite Monkey Theorem Simulator allows you to test this out for yourself, so why not give it a shot and see how your monkeys do?")
 
 st.header('What will your monkeys "try" to type?')
 st.subheader("Sonnet XVIII by William Shakespeare")
