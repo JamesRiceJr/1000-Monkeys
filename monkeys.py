@@ -1,6 +1,5 @@
 import streamlit as st
 import random
-import string
 import time
 from PIL import Image
 import matplotlib.pyplot as plt
@@ -71,7 +70,7 @@ if st.sidebar.button("Feed a monkey a banana?"):
 
 
 st.sidebar.markdown("-------------------------")
-st.sidebar.markdown("*Version 0.1.4*")
+st.sidebar.markdown("*[Version 0.1.5](https://github.com/JamesRiceJr/1000-Monkeys/blob/master/monkeys.py)*")
 
 # END SIDEBAR
 
